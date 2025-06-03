@@ -4,9 +4,11 @@ title: About me
 
 I’m a generalist game developer and reasearcher based in Brazil. I love learning how things work and occasionally reinventing the wheel!
 
+I like games and free software and I look forward into contributing to it, especially in my region.
+
 Currently learning C# and Monogame.
 
-I’m also a Game Design and Game-based Learning researcher at Federal Institute of São Paulo.
+Feel free to get in touch and email or DM me on [BlueSky](https://bsky.app/profile/harpermoreira.com).
 
 ### Key projects
 
