@@ -1,7 +1,74 @@
-@use "variables";
-@use "base";
-@use "classes";
-@use "layout";
-@use "tables";
-@use "code";
-@use "custom";
+body {
+    font-family: "Jersey 10";
+    font-size: 30px;
+}
+
+h1 section, h2, h3, h4, h5 {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 35px;
+}
+
+h4 {
+    font-size: 30px;
+}
+
+h5 {
+    font-size: 25px;
+}
+
+section ul {
+    list-style: disc;
+    margin: 10px;
+    margin-left: 30px;
+    color: gray;
+}
+
+section ol {
+    list-style:lower-roman;
+    margin: 10px;
+    margin-left: 30px;
+    color: gray;
+}
+
+blockquote {
+    color: #bd1b3e;
+    text-align: center;
+    font-size: 30px;
+    margin: 10px;
+}
+
+code {
+    white-space: pre-wrap;       /* Since CSS 2.1 */
+    font-size: 20px;
+}
+
+p {
+    margin-bottom: 8px;
+}
+
+section a:link {
+    color: rgb(77, 77, 255);
+    
+}
+
+section a:visited {
+    color: rgb(137, 137, 255);
+    
+}
+
+section a:hover {
+    color: rgb(191, 191, 255);
+    
+}

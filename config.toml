@@ -1,14 +1,16 @@
 # Site's URL. Please include trailing "/".
-base_url = "https://harpermoreira.com/"
-title = "Harper Moreira"
-description = "Game designer, programmer and composer."
+base_url = "https://harper.rocks/"
+title = "harper.rocks"
+description = "Personal Blog !"
 
 compile_sass = true
-build_search_index = false
-generate_feeds = false
+build_search_index = true
+generate_feeds = true
 minify_html = false
 
 [markdown]
 highlight_code = true
-highlight_theme = "Tomorrow"
+highlight_theme = "base16-ocean-dark"
 # highlight_theme = "base16-ocean-dark"
+
+exclude_paginated_pages_in_sitemap = "all"

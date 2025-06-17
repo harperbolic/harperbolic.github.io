@@ -5,66 +5,55 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Jersey+10&display=swap" rel="stylesheet">
     <meta
       name="description"
       itemprop="about"
       content="{{config.description}}"
     />
-    <link rel="stylesheet" href="{{ get_url(path='styles.css') | safe }}" />
+    <link rel="stylesheet" href="{{ get_url(path='styles.css') | safe }}"/>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
   </head>
 
-  <body>
-    <div class="wrapper">
-      <header>
-        <a href="{{ get_url(path='/') | safe }}">
-          <img
-            src="{{ get_url(path='img/logo.png') | safe }}"
-            class="site-logo"
-            alt="Logo"
-            width="275px"
-            height="auto"
-        /></a>
+  <body class="bg-black text-white h-screen text-xl min-h-[100vh] flex flex-col">
 
-        <p>{{ config.description }}</p>
+    <header class="bg-[#6e0e23] drop-shadow-lg drop-shadow-[#6e0e23]">
+      <nav class="flex justify-center items-center w-[92%] mx-auto h-[7vh]">
+        <div class="">
+            <ul class="flex gap-[30px] sm:gap-[40px]">
+              <li>
+                <a class="hover:text-gray-400" href="/extra/about">About</a>
+              </li>
+              <li>
+                <a class="hover:text-gray-400" target="_blank" href="https://harperbolic.itch.io">Games</a>
+              </li>
+              <li>
+                <a class="hover:text-gray-400" href="/">Blog</a>
+              </li>
+            </ul>
+        </div>
+      </nav>
+    </header>
+    <main class="grow-[1]">
+      <section class="flex flex-col w-[90%] sm:w-[80%] xl:w-[50%] mx-auto"> {% block content %} {% endblock content %} </section>
 
-        <p class="view"
-          ><a href="https://furigam.com" target="_blank"
-            >View my game studio.
-            <small>furigam.com</small></a
-          ></p
-        >
+      <div class="flex flex-row flex-wrap w-[90%] sm:w-[80%] xl:w-[50%] mx-auto justify-center mt-[40px] gap-[50px]"> {% block articles %}{% endblock articles %}</div>
+    </main>
 
-        <p class="view"
-          ><a href="https://github.com/harperbolic/" target="_blank"
-            >View my profile on GitHub. <small>harperbolic</small></a
-          ></p
-        >
+    <footer class="flex mt-[50px] bg-[#6e0e23] h-auto lg:p-[5px] p-[15px]">
+      <div class="flex lg:flex-row flex-col-reverse justify-between gap-[50px] items-center lg:mx-[30%] mx-[5%] grow-[1]">
+        <p class="text-[23px]">© Harper Moreira 2025</p>
+        <div class="flex lg:flex-row flex-col text-[23px] gap-[20px]">
+          <a class="hover:text-gray-400" href="https://bsky.app/profile/harper.furigam.com" target="_blank">BlueSky</a>
+          <a class="hover:text-gray-400" href="https://youtube.com/channel/UCTeSc9MyRfGEoBshNiIyfwA" target="_blank">YouTube</a>
+          <a class="hover:text-gray-400" href="mailto:harper@furigam.com">Get in touch</a>
+          <a></a>
+        </div>
 
-        <ul class="downloads">
-          <li
-            ><a href="https://harperbolic.itch.io" target="_blank">Itch.io <strong>Games</strong></a></li
-          >
-          <li
-            ><a href="mailto:hello@harper.rocks" target="_blank">Get in touch!<strong>Email</strong></a></li
-          >
-          <li
-            ><a href="https://bsky.app/profile/harpermoreira.com" target="_blank">Microblog <strong>BlueSky</strong></a></li
-          >
-        </ul>
-      </header>
-
-      <section> {% block content %} {% endblock content %} </section>
-
-      <footer>
-        <p
-          ><small>
-            Powered by <a href="https//www.getzola.org/" target="_blank">Zola</a> &mdash; Themed
-            with
-            <a href="https://github.com/semanticdata/zola-minimal/" target="_blank">Minimal</a
-            >
-          </small></p
-        >
-      </footer>
-    </div>
+      </div>
+        
+    </footer>
   </body>
 </html>
