@@ -1,0 +1,22 @@
+<div class="flex items-center justify-around h-auto m-[11px] w-auto">
+    <div>
+        <h1 class="text-[25px] font-[500]">{{ site.Title }}</h1>    
+    </div>
+    <div class="search-bar">
+        <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+        <script src="/pagefind/pagefind-ui.js"></script>
+        <div id="search"></div>
+        <script>
+            window.addEventListener('DOMContentLoaded', (event) => {
+            new PagefindUI({ element: "#search", showSubResults: true });
+        });
+</script>
+    </div>
+</div>
+<div class="navbar">
+    <ul class="flex justify-center gap-[60px] p-[7px] text-[18px]">
+        <li><a href="/">Home</a></li>
+        <li><a href="/">Archive</a></li>
+        <li><a href="/">About</a></li>
+    </ul>
+</div>

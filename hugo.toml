@@ -1,0 +1,5 @@
+baseURL = 'https://harper.rocks'
+languageCode = 'en-us'
+title = 'Harper Rocks'
+
+theme = 'harperrocks'
