@@ -11,16 +11,12 @@ If you wanna reach me out please **[EMAIL ME](mailto:hello@harper.rocks)** or **
 ## Websites
 
 - [This one](https:/harper.rocks)
-
 - [My game studio](https://furigam.com) (still WIP)
 
 ## Social
 
 - [Itch.io](https://harperbolic.itch.io)
-
 - [BlueSky](https://https://bsky.app/profile/harper.furigam.com)
-
-- [Mastodon](https://mastodon.gamedev.place/@harper)
 
 ## Stream my music!
 
