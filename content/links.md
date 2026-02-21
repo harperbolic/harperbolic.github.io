@@ -17,6 +17,8 @@ If you wanna reach me out please **[EMAIL ME](mailto:hello@harper.rocks)** or **
 
 - [Itch.io](https://harperbolic.itch.io)
 - [BlueSky](https://https://bsky.app/profile/harper.furigam.com)
+- [Mastodon (English)](https://mastodon.gamedev.place/@harper)
+- [Mastodon (Portuguese)](https://organica.social/@harper)
 
 ## Stream my music!
 
@@ -24,3 +26,4 @@ If you wanna reach me out please **[EMAIL ME](mailto:hello@harper.rocks)** or **
 - [YouTube](https://www.youtube.com/channel/UCTeSc9MyRfGEoBshNiIyfwA)
 - [Spotify](https://open.spotify.com/intl-pt/artist/3bKtcGNUBLFN554CDbfJSs)
 - [Apple Music](https://music.apple.com/us/artist/harperbolic/1745438240)
+- [Tidal](https://tidal.com/artist/47660823)
