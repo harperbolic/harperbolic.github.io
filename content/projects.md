@@ -70,6 +70,8 @@ There were no clear roles, but I did all of the audio and some of animations and
 
 # Extra
 
-## Crosswords++
+## [Crosswords++](https://github.com/FabioAdrianoSilveira/cpp-crosswords/)
+
+![](../images/crosswords.gif)
 
 A fullstack crosswords game made in C++ with SDL2 and PostgreSQL. Developed as an assigment for an university class.
