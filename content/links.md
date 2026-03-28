@@ -11,7 +11,6 @@ If you wanna reach me out please **[EMAIL ME](mailto:hello@harper.rocks)** or **
 ## Websites
 
 - [This one](https:/harper.rocks)
-- [My game studio](https://furigam.com) (still WIP)
 
 ## Social
 
