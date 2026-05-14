@@ -16,7 +16,7 @@ If you wanna reach me out please **[E-mail me](mailto:hello@harper.rocks)** or *
 
 - [E-mail](mailto:hello@harper.rocks)
 - [Itch.io](https://harperbolic.itch.io)
-- [BlueSky](https://https://bsky.app/profile/harper.furigam.com)
+- [BlueSky](https://bsky.app/profile/harper.rocks)
 
 ## Stream my music!
 
