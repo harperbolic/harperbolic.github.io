@@ -66,7 +66,7 @@ Every part of your body holds a purpose. Not having them also does. Control a ci
 
 You can cut your body whenever and however you see fit, but once you lose something, you may not have it back for the remainder of the phase.
 
-[Play Intrusion!](https://inukhan.itch.io/limbpunk)
+[Play LimbPunk!](https://inukhan.itch.io/limbpunk)
 
 ![](../images/limbpunk.png)
 
