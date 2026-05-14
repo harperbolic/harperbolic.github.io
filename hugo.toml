@@ -3,7 +3,7 @@
 baseURL = "https://harper.rocks"
 
 # The name of this wonderful theme ;-).
-theme = 'hugo-bearblog'
+theme = 'hugo-bearcub'
 
 # Basic metadata configuration for your blog.
 title = "Harper Rocks"
