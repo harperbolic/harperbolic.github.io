@@ -19,6 +19,9 @@ enableRobotsTXT = true
     # and accessibility, see https://web.dev/color-and-contrast-accessibility/
     noClasses = false
 
+[language]
+  title = "Harper ROcks"
+
 [params]
   # The description of your website
   description = "Harper's Game Development Personal Blog"
