@@ -20,7 +20,8 @@ enableRobotsTXT = true
     noClasses = false
 
 [language]
-  title = "Harper ROcks"
+  [languages.en]
+    title = "Harper Rocks"
 
 [params]
   # The description of your website
