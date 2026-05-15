@@ -25,12 +25,12 @@ enableRobotsTXT = true
 [languages]
   [languages.en]
     title = "Harper Rocks"
-    languageName = "English"
+    languageName = "English 🇬🇧"
     LanguageCode = "en-US"
     contentDir = "content/en"
   [languages.pt]
     title = "Harper Rocks"
-    languageName = "Português"
+    languageName = "Português 🇧🇷"
     LanguageCode = "pt-BR"
     contentDir = "content/pt"
 
