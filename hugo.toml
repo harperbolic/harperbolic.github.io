@@ -19,9 +19,20 @@ enableRobotsTXT = true
     # and accessibility, see https://web.dev/color-and-contrast-accessibility/
     noClasses = false
 
-[language]
+
+# Multilingual mode config. More for information about how to setup translation,
+# see https://gohugo.io/content-management/multilingual/
+[languages]
   [languages.en]
     title = "Harper Rocks"
+    languageName = "English"
+    LanguageCode = "en-US"
+    contentDir = "content/en"
+  [languages.pt]
+    title = "Harper Rocks"
+    languageName = "Português"
+    LanguageCode = "pt-BR"
+    contentDir = "content/pt"
 
 [params]
   # The description of your website
