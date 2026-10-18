@@ -13,7 +13,7 @@ Atualmente trabalha na coordenação de um grupo de extensão universitária no 
 
 {{< details "**Composição Musical**">}}
 
-- Harper vem de uma família com tradição musical e tem estudado música há 18 anos. Trabalhou em diversos projetos através mídias diferentes e, como multi-instrumentista, contirbuiu para a criação de trilhas sonoras originais variando de músicas orquestradas à eletrônica ambiente e rock. Atualmente, Harper trabalha exclusivamente com música para Video Games, utilizando sua expertise em game design, programação e direção para criar trilhas que melhoram a experiência de jogar como um todo.
+- Harper trabalhou em diversos projetos através mídias diferentes e, como multi-instrumentista, contirbuiu para a criação de trilhas sonoras originais variando de músicas orquestradas à eletrônica ambiente e rock. Atualmente, Harper trabalha exclusivamente com música para Video Games, utilizando sua expertise em game design, programação e direção para criar trilhas que melhoram a experiência de jogar como um todo de formas que alguém apenas compositor jamais conseguiria.
 
 >Trabalhos mais recentes: [Vernacular (Preview)](https://soundcloud.com/harperbolic/sets/vernacular-preview), [Devil's Corp](https://astrocat-studio.itch.io/devils-corp), [Chips and Bits](https://soundcloud.com/harperbolic/sets/chips-and-bits).
 
