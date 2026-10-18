@@ -6,7 +6,7 @@ weight: 1
 
 Harper Moreira atua profissionalmente em game design, game direction e composição musical.
 
-Harper atualmente trabalha na Direção de um jogo *hack n slash* para a Receita Federal.
+Atualmente trabalha na coordenação de um grupo de extensão universitária no Instituto Federal de São Paulo, dirigindo um jogo *hack n slash* feito para a Receita Federal.
 
 ## Serviços
 

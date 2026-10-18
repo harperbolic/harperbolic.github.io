@@ -6,7 +6,7 @@ weight: 1
 
 Harper Moreira is a game designer, game director and music composer.
 
-Harper is currently working as a Game Director on a hack n slash game requested by the Special Department of Federal Revenue of Brazil.
+Harper currently works directing an university extension group at the Federal Institute of São Paulo, directing a "hack n slash" game made for the Special Department of Federal Revenue of Brazil.
 
 ## Services	
 
